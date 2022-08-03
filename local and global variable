@@ -1,0 +1,8 @@
+a = 20  # global variable
+def local():
+    a =25  # local variable
+    print(a) 
+
+local()
+
+print(a)
