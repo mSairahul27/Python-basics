@@ -1,0 +1,10 @@
+if __name__ == "__main__":
+    #int
+    x = 3
+    #float
+    y = 3.14
+    #bool
+    b = True
+    #char
+    name = 'S'
+    print (x, y, b, name)
