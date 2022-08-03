@@ -1,5 +1,5 @@
 if __name__ == "__main__":
- // This is  a single line comment 
+ # This is  a single line comment 
   print("Sairahul Majji")
 """ This
     is
